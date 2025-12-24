@@ -1,7 +1,7 @@
 {
   "clientes": [
     {
-      "id": "LOJA001",
+      "id": "LOJA0012",
       "empresa": "Cliente Exemplo",
       "status": "ATIVO",
       "validade": "2025-12-31",
